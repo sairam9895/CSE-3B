@@ -1,0 +1,3 @@
+Git is a repository that is used for displaying our skills to the world.
+GitHub is a online platform that is available for free of cost on the browser.
+Git has a wide range of commands ,libraries, etc. 
